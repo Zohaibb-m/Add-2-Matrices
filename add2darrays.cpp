@@ -53,3 +53,7 @@ delete [] ar1;
 delete [] ar2;
 delete [] arr;
 }
+
+
+
+//Good hogya aise hi shughal mela lgai rakho
